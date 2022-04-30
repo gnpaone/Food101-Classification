@@ -120,7 +120,7 @@ history = model.fit(
 
 ## Training
 
-<img src = "https://github.com/gnpaone/Food101-Classification/blob/main/Images/history.png" width="1000">
+<img src = "https://github.com/gnpaone/Food101-Classification/blob/main/Images/training.png" width="1000">
 
 
 Model accuracy managed to increase over each epoch.
